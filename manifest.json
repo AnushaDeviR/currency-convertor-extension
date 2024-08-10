@@ -1,0 +1,10 @@
+{
+    "name": "Exchange Rate",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "Extension for currency conversion",
+    "action": {
+        "default_icon": "icon.webp",
+        "default_popup": "index.html"
+    }
+}
